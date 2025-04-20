@@ -20,7 +20,7 @@
     "SESSION_ID": {
       "description": "your session id. get session here https://silva-session-selector.vercel.app/",
       "required": true,
-      "value": ""
+      "value": "Silva~mvYWWYhZ#SwV8H36wmZbBG147iMh_aA45fCv3IgNND7YFiheT2GE"
     },
     "MODE": {
       "description": "mode public or private",
